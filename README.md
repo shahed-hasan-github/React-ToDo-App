@@ -12,5 +12,5 @@ This is a simple yet powerful To-Do application built with React. It allows user
 ✅ Persistent Storage – Saves tasks using Local Storage / Backend API
 ✅ Filter Tasks – Sort by completed or pending status
 ✅ Responsive Design – Works on desktop and mobile
-✅ Dark Mode – Toggle between light and dark themes (if implemented)
+✅ Dark Mode – Toggle between light and dark themes
 
